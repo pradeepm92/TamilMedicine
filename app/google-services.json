@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790054678461",
+    "project_id": "tamil-medicine",
+    "storage_bucket": "tamil-medicine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790054678461:android:bb7f052fed7a1d9dc52cd4",
+        "android_client_info": {
+          "package_name": "com.example.tamilmedicine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMfafwTa8uU6JRoPKdzD58yolhrTv1rOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
